@@ -1,0 +1,1 @@
+import{i as e}from"./vendor-misc-DE5vzKPl.js";var t=e(e=>({items:[],addQuestion:t=>e(e=>({items:[t,...e.items]}))}));export{t};
