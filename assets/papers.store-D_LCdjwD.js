@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n}from"./vendor-misc-DE5vzKPl.js";var r=e()(n(e=>({items:[],addPaper:t=>{let n=`paper-${Date.now()}-${Math.random().toString(36).slice(2,9)}`,r=new Date().toISOString();return e(e=>({items:[{...t,id:n,createdAt:r},...e.items]})),n}}),{name:`edu-papers`,storage:t(()=>localStorage),partialize:e=>({items:e.items})}));export{r as t};
