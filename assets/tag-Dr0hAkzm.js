@@ -1,1 +1,0 @@
-import{n as e}from"./http-DvnUZDWV.js";function t(t){return e.get(`/api/tag/list`,{params:t})}export{t};

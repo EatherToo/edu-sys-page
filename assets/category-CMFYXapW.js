@@ -1,1 +1,0 @@
-import{n as e}from"./http-DvnUZDWV.js";function t(e){return Promise.resolve({list:[]})}function n(t){return e.post(`/api/category/add`,t)}function r(t){return e.post(`/api/category/delete`,t)}function i(t,n){return e.put(`/api/category/modify/${t}`,n)}export{i,r as n,t as r,n as t};
