@@ -1,0 +1,1 @@
+import{s as e}from"./systemTree-C5PtvfvA.js";var t=Object.entries(e).map(([e,t])=>({label:e,value:t}));export{t};
